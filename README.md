@@ -17,6 +17,9 @@ http://sceneparsing.csail.mit.edu/model/pytorch
 Color encoding of semantic categories can be found here:
 https://docs.google.com/spreadsheets/d/1se8YEtb2detS7OuPE86fXGyD269pMycAWe2mtKUj2W8/edit?usp=sharing
 
+## laymu's experiments
+This repo is great, I have successfully trained many models on the ADE20K dataset.
+
 ## Updates
 - HRNet model is now supported.
 - We use configuration files to store most options which were in argument parser. The definitions of options are detailed in ```config/defaults.py```.
